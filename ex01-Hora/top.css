@@ -1,0 +1,26 @@
+body{
+  font-family: normal;
+  color: white;
+  background: rgb(30, 11, 61);
+}
+header{
+  text-align: center;
+}
+#hora{ 
+  font-size: x-large;
+}
+
+section{
+text-align: center;
+  background: rgb(21, 70, 70);
+padding: 15px;
+border-radius: 20px;
+width: 500px;
+margin: auto;
+box-shadow: 3px 5px 9px rgba(0, 0, 0, 0.521);
+}
+
+footer{
+  font-style: italic;
+  text-align: center;
+}
